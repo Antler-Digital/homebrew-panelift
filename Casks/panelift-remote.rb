@@ -1,8 +1,8 @@
 cask "panelift-remote" do
-  version "0.4.5"
-  sha256 "84647ae27cb3d0a042b7e597b426f7e09e4ac65b7e94163334f4ee7e7bbd8df3"
+  version "0.4.6"
+  sha256 "f39198c7fca74ac60d0a301ae03890684f214ded22d634d84422b4b0dc8a822f"
 
-  url "https://3479fbee.panelift.pages.dev/download/Panelift-Remote.dmg"
+  url "https://e040ec76.panelift.pages.dev/download/Panelift-Remote.dmg"
   name "Panelift Remote"
   desc "Control another Mac from a Mac"
   homepage "https://panellift.app/"
